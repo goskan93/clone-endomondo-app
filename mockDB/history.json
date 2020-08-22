@@ -1,0 +1,44 @@
+{
+  "history": [
+    {
+      "id": 1,
+      "sport": "Jazda na rowerze",
+      "date": "2020-08-07",
+      "distans": 10.0,
+      "time": "2:00:00",
+      "calories": 459,
+      "irrigation": 0.29,
+      "status": ""
+    },
+    {
+      "id": 2,
+      "sport": "Jazda na rowerze",
+      "date": "2020-08-10",
+      "distans": 25.0,
+      "time": "2:00:00",
+      "calories": 874,
+      "irrigation": 0.48,
+      "status": ""
+    },
+    {
+      "id": 3,
+      "sport": "Chodzenie",
+      "date": "2020-08-16",
+      "distans": 5.4,
+      "time": "1:00:00",
+      "calories": 396,
+      "irrigation": 0.22,
+      "status": ""
+    },
+    {
+      "id": 4,
+      "sport": "Jazda na rowerze",
+      "date": "2020-08-21",
+      "distans": 28.0,
+      "time": "1:45:00",
+      "calories": 970,
+      "irrigation": 0.52,
+      "status": "Super!"
+    }
+  ]
+}
